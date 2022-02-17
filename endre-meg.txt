@@ -1,5 +1,5 @@
 Dette er en tekstfil
 
-Denne linja kan du endre
+Denne linja har du endra
 
 Hilsen Guro
